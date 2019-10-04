@@ -1,1 +1,3 @@
 venv
+Genesis/__pycache__/
+db.sqlite3
